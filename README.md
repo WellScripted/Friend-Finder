@@ -7,7 +7,7 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out 
+*Friend Finder* is deployed to Heroku. Please check it out https://secret-anchorage-50760.herokuapp.com/
 
 ## Installation
 
