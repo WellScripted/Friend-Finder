@@ -30,6 +30,8 @@ module.exports = function (app) {
                 bestMatch.friendDifference = totalDifference;
             }
         }
+
+        console.log("BEST MATCH",bestMatch)
         friends.push(userData);
         res.json(bestMatch);
     })
